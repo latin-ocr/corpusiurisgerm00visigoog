@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusiurisgerm00visigoog_0434.png"; bbox 0 0 2632 4822; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 632 505 1230 621">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 632 505 1230 621">
+     <span class='ocr_line' id='line_1_1' title="bbox 632 505 1230 621; baseline 0.004 -42.19"><span class='ocrx_word' id='word_1_1' title='bbox 632 505 719 618; x_wconf 90' lang='grc'>3</span> <span class='ocrx_word' id='word_1_2' title='bbox 731 505 861 620; x_wconf 93' lang='grc'>2044</span> <span class='ocrx_word' id='word_1_3' title='bbox 869 507 973 620; x_wconf 74' lang='lat'>088</span> <span class='ocrx_word' id='word_1_4' title='bbox 974 506 1086 621; x_wconf 88' lang='grc'>492</span> <span class='ocrx_word' id='word_1_5' title='bbox 1087 507 1230 615; x_wconf 90' lang='grc'>120</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1320 4820">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1320 4820">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1320 4820; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1320 4820; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
